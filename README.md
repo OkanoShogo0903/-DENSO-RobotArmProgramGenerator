@@ -1,6 +1,7 @@
 # -DENSO-RobotArmProgramGenerator
 デンソーロボットアームでお絵かきをしてみたい...
 そう、それは誰もが一度は考える事です。
+![UI](https://github.com/OkanoShogo0903/-JAVA-/blob/master/image.jpg-large "イメージ画像")
 
 しかし、実際にロボットアームでお絵かきをするには面倒が多い。
 
@@ -10,8 +11,6 @@
 
 誰もが懐き、そして儚く散ってきたデンソーロボットアームへの夢を叶えるソフトウェア。
 そう、それが*デンソーロボットアームお絵かきソフト、-DENSO-RobotArmProgramGenerator*なのです。
-
-![UI](https://github.com/OkanoShogo0903/-JAVA-/blob/master/image.jpg-large "イメージ画像")
 
 ## Installation(インストール方法、使い方)
 インストール不要  jarをダブルクリックでOK
